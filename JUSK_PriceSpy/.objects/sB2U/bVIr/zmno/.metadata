@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome JYSK  Купете мебели за Вашия дом – Вин",
+  "Type": "Screen",
+  "Id": "zmno7LzI_kmLox3IdyEZGg",
+  "Reference": "iDHDqC-p0EaQCle5F-cglw/zmno7LzI_kmLox3IdyEZGg",
+  "ParentRef": "iDHDqC-p0EaQCle5F-cglw/bVIrcpSFvEy_S9E_Mrzz2Q",
+  "Created": "2025-02-02T20:50:55.432089Z",
+  "Updated": "2025-02-02T20:50:55.432089Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

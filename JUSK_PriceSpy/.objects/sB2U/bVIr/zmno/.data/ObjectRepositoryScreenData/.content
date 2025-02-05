@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="kznFMpnFm0uaSGqSaMD60A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-8, -8, 1936, 1056" BrowserType="Chrome" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGpSURBVDhP3VJJKIRhGP7+g4sTxr7kQCncnDDGIAcRLtQkkZGyJImyN5GaGf/YjaEMftuYZI0kCkW2FDWUiJgIIVu5Pb7/s5wm5chbT8/3Pr17H/kfxhFix9n7KTnnCJ5zlmp/BZJfPyekl48L3jGNglOYRqCiTUjCbesksWAEFS1LqDOsIDhZD7dIHh5ROrjLebhENMBDroMrZa9oyrKGb92Txog+CUhoQ45qBnrTNsRibUObUOmXIUzvge9dh8G8g5bBDUwsHSK7Zho947sob15k8f5xrSBiZ0XpGHxjm+AT04jNfSvKmhZhnrfg8eUN9d2rODq7Y3opv4Dzq0dc3j6zGLoySGblJOLzhuFIHWX1FKzXT4yzqqZgOb6BNN2IgZk93Ny/YmzhAKfWB5xc3KOVTupO1yVi5yL1PBsnt24W7SNbCEzsgDyzD7WdKwhJ7YKub50lJBea2EQZFRPQGtcQlKQHcQhVI6XYzDqJb0m4hoFemPIXPjQnxtpvdqExxDFU3U+PJ8gyegW6Rj9N/BXoBBpOUTLKSdMMHC1g87P8hM/P+HeNkHeLTT3Le8QQWAAAAABJRU5ErkJggg==" Selector="&lt;html app='chrome.exe' title='JYSK | Купете мебели за Вашия дом – Винаги супер оферти ✓' /&gt;" Url="https://jysk.bg/" Version="V2">
+      <imageRef attrName="InformativeScreenshot" originalValue="1746aea96423a24a5d107fab009d1695.jpg" xmlns="">0pxdkNEMdOkeph-qdH8gPCg</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

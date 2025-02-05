@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="t0lCaRfXEkWvl6HqeMB9Vg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-8, -8, 1936, 1056" BrowserType="Chrome" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGpSURBVDhP3VJJKIRhGP7+g4sTxr7kQCncnDDGIAcRLtQkkZGyJImyN5GaGf/YjaEMftuYZI0kCkW2FDWUiJgIIVu5Pb7/s5wm5chbT8/3Pr17H/kfxhFix9n7KTnnCJ5zlmp/BZJfPyekl48L3jGNglOYRqCiTUjCbesksWAEFS1LqDOsIDhZD7dIHh5ROrjLebhENMBDroMrZa9oyrKGb92Txog+CUhoQ45qBnrTNsRibUObUOmXIUzvge9dh8G8g5bBDUwsHSK7Zho947sob15k8f5xrSBiZ0XpGHxjm+AT04jNfSvKmhZhnrfg8eUN9d2rODq7Y3opv4Dzq0dc3j6zGLoySGblJOLzhuFIHWX1FKzXT4yzqqZgOb6BNN2IgZk93Ny/YmzhAKfWB5xc3KOVTupO1yVi5yL1PBsnt24W7SNbCEzsgDyzD7WdKwhJ7YKub50lJBea2EQZFRPQGtcQlKQHcQhVI6XYzDqJb0m4hoFemPIXPjQnxtpvdqExxDFU3U+PJ8gyegW6Rj9N/BXoBBpOUTLKSdMMHC1g87P8hM/P+HeNkHeLTT3Le8QQWAAAAABJRU5ErkJggg==" Selector="&lt;html app='chrome.exe' title='Качествени възглавници за по-добър сън | JYSK' /&gt;" Url="https://jysk.bg/spalnya/vuzglavnici" Version="V2">
+      <imageRef attrName="InformativeScreenshot" originalValue="af328913b7665367293bcb43466f3bda.jpg" xmlns="">0FfFhBuQ1YkqPvGsky6PhiA</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>
